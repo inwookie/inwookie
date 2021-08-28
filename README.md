@@ -8,6 +8,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=inwookie&theme=react&show_icons=true&hide=issues" />
+  <br/>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inwookie&layout=compact&theme=react" />
   <br /><br />
  
