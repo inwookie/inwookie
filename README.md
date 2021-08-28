@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&height=150&text=👋%20Hi!+I%27m+Inwook&fontColor=fff&fontSize=40&color=1e2127&animation=blink)
+![header](https://capsule-render.vercel.app/api?type=soft&height=150&text=👋%20Hi!+I%27m+Inwook&fontColor=fff&fontSize=40&color=1e2127&animation=fadeIn)
 
 <br />
 
