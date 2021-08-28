@@ -14,3 +14,10 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=Css3&logoColor=white"/></a>
   
 </p>
+
+<!-- Useful sites:
+https://github.com/alexandresanlim/Badges4-README.md-Profile
+https://simpleicons.org/?q=react
+https://github.com/HaiDang666/awesome-tool-for-readme-profile
+https://github.com/anuraghazra/github-readme-stats
+https://zzsza.github.io/development/2020/07/10/make-github-profile-readme/ -->
