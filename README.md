@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&height=150&text=👋%20Hi!+I%27m+Inwook&fontColor=fff&fontSize=40&color=1e2127)
+![header](https://capsule-render.vercel.app/api?type=soft&height=150&text=👋%20Hi!+I%27m+Inwook&fontColor=fff&fontSize=40&color=1e2127&animation=fadeIn)
 
 <br />
 
@@ -7,8 +7,7 @@
 <br />
 
 <p align="center">
-  <img width="500" height="500" src="https://github-readme-stats.vercel.app/api?username=inwookie&theme=react&show_icons=true&hide=issues" />
-  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=inwookie&theme=react&show_icons=true&hide=issues" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inwookie&layout=compact&theme=react" />
   <br /><br />
  
