@@ -5,7 +5,7 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inwookie&layout=compact&theme=dark" />
  </p>
 
-<h1 align="center"> Languages and Tools </h1>
+<h2 align="center"> Languages and Tools </h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
