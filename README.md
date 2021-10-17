@@ -2,6 +2,7 @@
 
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=inwookie&theme=dark&show_icons=false&hide=issues" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inwookie&layout=compact&theme=dark" />
  </p>
 
 <h2 align="center"> Languages and Tools </h2>
